@@ -1,0 +1,13 @@
+
+
+
+
+{
+  "scripts": {
+    "dev": "vite --host 127.0.0.1"
+  },
+  "dependencies": {
+    "three": "^0.179.1",
+    "vite": "^7.1.1"
+  }
+}
